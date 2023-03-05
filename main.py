@@ -1,4 +1,4 @@
 # █▄▄ █▀█ █░█ █░█
 # █▄█ █▀▄ █▄█ █▀█
 
-# Você deveria ir aprender a programar invés de copiar.
+# You should go learn to program instead of copying.
